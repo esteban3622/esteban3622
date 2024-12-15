@@ -12,11 +12,19 @@ Mi nombre es Esteban Higuera
 ## Desarrollo Web
 - Herramientas
     - Visual Studio Code 
-- Parte 1
+    - Figma
+- Parte 1 - UI Design & UX Design
+    - Conceptos básicos de UI & UX Design
+- Parte 2 - Front End Developer
     - HTML
     - CSS
+        - Boostrat
+        - Tailwind
     - JavaScript
-- Parte 2
+        - Angular 
+        - React
+        - Vue
+- Parte 3 - Backend Developer
     - PHP
     - MySQL 
 ## Inteligencia Artificial
