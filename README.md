@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hola mi nombre es Esteban Higuera 👋
 
-<!--
-**esteban3622/esteban3622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contenido
+- Algoritmos.
+- Desarrollo Web.
+- Inteligencia Artificial.
+- Pruebas de Software.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algoritmos
+## Desarrollo Web 
+## Inteligencia Artificial
+## Pruebas de Software
