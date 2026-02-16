@@ -1,2 +1,1 @@
-# Hola 👋, Bienvenidos a mi GitHub. 
-Mi nombre es Esteban Higuera    
+![Header](./github-header-banner.png)
